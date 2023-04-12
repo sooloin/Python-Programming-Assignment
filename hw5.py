@@ -1,3 +1,4 @@
+#사용자 정의 함수부
 def read_single_digit(digit):
     if (digit == 0):
         return '영'
@@ -30,5 +31,5 @@ def read_number():
 
     print(f'{first} {second} {third}')
 
-
+#주 프로그램부
 read_number()
